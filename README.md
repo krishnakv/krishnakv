@@ -43,5 +43,4 @@ Here are some ideas to get you started:
 </p>
 
 ### Certs
-![](https://www.credly.com/users/krishnakumar-venkataraman.c571ee16)
 
