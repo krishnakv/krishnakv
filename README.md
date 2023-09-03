@@ -43,5 +43,6 @@ Here are some ideas to get you started:
 </p>
 
 ### Certs
-<img src="https://www.credly.com/badges/2756a97c-5ab7-4f65-b44e-14a545577f83/public_url" alt="Prometheus" width="80" height="80"/>
+![](https://www.credly.com/badges/2756a97c-5ab7-4f65-b44e-14a545577f83/public_url")
+
 
