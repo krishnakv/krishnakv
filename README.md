@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **krishnakv/krishnakv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I am Krishna. Welcome to my open source dashboard.
+Hi There, Krishna here. Welcome to my open source dashboard.
 
 - I am currently working on CNCF projects
 - I am looking to collaborate on driving open source contributions at an org level
