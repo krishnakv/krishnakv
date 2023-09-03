@@ -45,9 +45,13 @@ Here are some ideas to get you started:
 ### Certs
 
 <p align="left"> 
-<img src="https://raw.githubusercontent.com/krishnakv/krishnakv/main/img/cks-certified-kubernetes-security-specialist.png" alt="CKS" width="128" height="128"/>
-<img src="https://raw.githubusercontent.com/krishnakv/krishnakv/main/img/fundamentals-for-istio-by-solo-io.png" alt="Istio" width="128" height="128"/>
-<img src="https://raw.githubusercontent.com/krishnakv/krishnakv/main/img/microsoft-certified-azure-security-engineer-associate.png" alt="Azure Security Engg Associate" width="128" height="128"/>
-<img src="https://raw.githubusercontent.com/krishnakv/krishnakv/main/img/microsoft-certified-azure-solutions-architect-expert.1.png" alt="Azure Architect Expert" width="128" height="128"/>
-<img src="https://raw.githubusercontent.com/krishnakv/krishnakv/main/img/speaker-kcd-chennai-2023.png" alt="Speaker KCD Chennai" width="128" height="128"/>
+<img src="https://github.com/krishnakv/krishnakv/blob/2af0bde70d499c3e443a22ddc2f3933bb80f5fb7/img/cks-certified-kubernetes-security-specialist.png" alt="CKS" width="128" height="128"/>
+  
+<img src="https://github.com/krishnakv/krishnakv/blob/2af0bde70d499c3e443a22ddc2f3933bb80f5fb7/img/fundamentals-for-istio-by-solo-io.png" alt="Istio" width="128" height="128"/>
+  
+<img src="https://github.com/krishnakv/krishnakv/blob/2af0bde70d499c3e443a22ddc2f3933bb80f5fb7/img/microsoft-certified-azure-security-engineer-associate.png" alt="Azure Security Engg Associate" width="128" height="128"/>
+
+<img src="https://github.com/krishnakv/krishnakv/blob/2af0bde70d499c3e443a22ddc2f3933bb80f5fb7/img/microsoft-certified-azure-solutions-architect-expert.1.png" alt="Azure Architect Expert" width="128" height="128"/>
+
+<img src="https://github.com/krishnakv/krishnakv/blob/2af0bde70d499c3e443a22ddc2f3933bb80f5fb7/img/speaker-kcd-chennai-2023.png" alt="Speaker KCD Chennai" width="128" height="128"/>
 </p>
