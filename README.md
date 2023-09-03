@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I am Krishna. Welcome to my open source dashboard.
+
+- I am currently working on CNCF projects
+- I am looking to collaborate on driving open source contributions at an org level
+- Ask me about SPIFFE/ Spire
+
+![](https://github-readme-stats.vercel.app/api?username=krishnakv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
