@@ -71,9 +71,6 @@ Here are some ideas to get you started:
 ### Certs
 
 <p align="left"> 
-<a href="https://www.credly.com/badges/68b58c20-8aae-4f88-b8ec-4ebba26e5db7/public_url">
-<img src="./img/cks-certified-kubernetes-security-specialist.png" alt="CKS" width="128" height="128"/>
-</a>
 <a href="https://www.credly.com/badges/66fa84f6-7c1b-4089-97f1-99607f5c63aa/public_url">
 <img src="./img/fundamentals-for-istio-by-solo-io.png" alt="Istio" width="128" height="128"/>
 </a>
