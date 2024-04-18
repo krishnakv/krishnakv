@@ -83,9 +83,6 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/a71bfe88-73c8-4c35-8062-4741fc6ff1dd/public_url">
 <img src="./img/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect - Associate" width="128" height="128"/>
 </a>
-<a href="https://google.accredible.com/6d8e197b-2b17-4eac-b730-1c3ac4e26f20">"
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/27627236" alt="Google Associate Cloud Engineer" width="128" height="128"/>
-</a>
 <a href="https://google.accredible.com/56c56c0a-b1c0-48b2-8153-02b0b206b100">"
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/24747181" alt="Google Professional Cloud Architect" width="128" height="128"/>
 </a>
