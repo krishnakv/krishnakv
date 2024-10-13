@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ## Hi There, Krishna here. Welcome to my open source dashboard.
 
 - Currently working on CNCF projects
-- Looking to collaborate on driving open source contributions at an org level
-- Ask me about SPIFFE/ Spire
+- Looking to collaborate on driving open source contributions
+- Ask me about SPIFFE/ Spire, Project Kepler
 
 ### Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=krishnakv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
@@ -76,9 +76,6 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.credly.com/badges/2dcdfa35-3a4c-4b72-bfba-e57493ead13a/public_url">
 <img src="./img/microsoft-certified-azure-security-engineer-associate.png" alt="Azure Security Engg Associate" width="128" height="128"/>
-</a>
-<a href="https://www.credly.com/badges/404ffe0d-d73b-4023-a1f8-dadc5c084e5c/public_url">
-<img src="./img/microsoft-certified-azure-solutions-architect-expert.1.png" alt="Azure Architect Expert" width="128" height="128"/>
 </a>
 <a href="https://www.credly.com/badges/a71bfe88-73c8-4c35-8062-4741fc6ff1dd/public_url">
 <img src="./img/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect - Associate" width="128" height="128"/>
